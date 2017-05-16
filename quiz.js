@@ -4,7 +4,7 @@ var score = 0;
 
 // Question 1
 
-var question1 = prompt("Who was Queen' singer?");
+var question1 = prompt("1/5 - Who was Queen' singer?");
 var response1 = "freddie mercury"
 
 
@@ -19,7 +19,7 @@ if (question1.toLowerCase() === response1 || question1.toLowerCase() === "freddi
 
 // Question 2
 
-var question2 = prompt("Who was Queen' bass player?");
+var question2 = prompt("2/5 - Who was Queen' bass player?");
 var response2 = "john deacon"
 
 if (question2.toLowerCase() === response2 || question2.toLowerCase() === "john") {
@@ -33,7 +33,7 @@ if (question2.toLowerCase() === response2 || question2.toLowerCase() === "john")
 
 // Question 3
 
-var question3 = prompt("Who was Queen's guitarist?");
+var question3 = prompt("3/5 - Who was Queen's guitarist?");
 var response3 = "brian may"
 
 if (question3.toLowerCase() === response3 || question3.toLowerCase() === "brian") {
@@ -47,7 +47,7 @@ if (question3.toLowerCase() === response3 || question3.toLowerCase() === "brian"
 
 // Question 4
 
-var question4 = prompt("Who was Queen's drummer?");
+var question4 = prompt("4/5 - Who was Queen's drummer?");
 var response4 = "roger taylor"
 
 if (question4.toLowerCase() === response4 || question4.toLowerCase() === "roger") {
@@ -61,7 +61,7 @@ if (question4.toLowerCase() === response4 || question4.toLowerCase() === "roger"
 
 // Question 5
 
-var question5 = prompt("Who was Queen's fifth member?");
+var question5 = prompt("5/5 - Who was Queen's fifth member?");
 var response5 = "spike edney"
 
 if (question5.toLowerCase() === response5 || question5.toLowerCase() === "spike") {
