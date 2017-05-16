@@ -19,7 +19,7 @@ if (question1.toLowerCase() === response1 || question1.toLowerCase() === "freddi
 
 // Question 2
 
-var question2 = prompt("2/5 - Who was Queen' bass player?");
+var question2 = prompt("2/5 - Who was Queen's bass player?");
 var response2 = "john deacon"
 
 if (question2.toLowerCase() === response2 || question2.toLowerCase() === "john") {
